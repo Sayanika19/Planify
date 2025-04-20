@@ -4,25 +4,25 @@ import { Card, CardContent } from "@/components/ui/card";
 const testimonials = [
   {
     quote: "Planify made my wedding planning so much easier! The AI-powered vendor matching saved me hours of research, and the budget tracker kept us perfectly on track.",
-    author: "Emily Johnson",
+    author: "Rituja Dutta",
     role: "Bride, Wedding 2023",
     avatar: "https://randomuser.me/api/portraits/women/44.jpg"
   },
   {
     quote: "As a corporate event planner, I handle multiple events simultaneously. Planify's task management and collaborative features have transformed my workflow completely.",
-    author: "Michael Chen",
+    author: "Suvam Rai",
     role: "Corporate Event Planner",
     avatar: "https://randomuser.me/api/portraits/men/32.jpg"
   },
   {
     quote: "The invitation system is worth the subscription alone! I created gorgeous digital invites for my daughter's graduation party and tracked all RSVPs in one place.",
-    author: "Sarah Williams",
+    author: "Sarah Jain",
     role: "Parent & Party Planner",
     avatar: "https://randomuser.me/api/portraits/women/68.jpg"
   },
   {
     quote: "I've planned three different events using Planify, and each one was smoother than the last. The AI assistant offered great suggestions I wouldn't have thought of.",
-    author: "David Rodriguez",
+    author: "Ruby Deb",
     role: "Birthday Party Host",
     avatar: "https://randomuser.me/api/portraits/men/75.jpg"
   }
